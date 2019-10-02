@@ -1,0 +1,19 @@
+{
+  "name": "aircnc-rocketseat-9-backend",
+  "version": "1.0.0",
+  "description": "project fullstack react-native, react and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "node"
+  ],
+  "author": "Thauan Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
